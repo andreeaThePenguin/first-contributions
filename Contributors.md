@@ -258,6 +258,7 @@ Brent L
 - [Nicole Lancaster](https://github.com/nicole-lancaster/)
 - [Akshay]
 - [Arya Kulkarni](https://github.com/aryakulkarni25)
+- [Andreea L](https://github.com/andreeaThePenguin)
 - [Dannyswiss](https://github.com/Dannyswiss1)
 - [Abhishek H](https://github.com/mr-abhishek-h)
 - [Ethan Perisho] (https://github.com/eperisho99)
